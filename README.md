@@ -1,7 +1,6 @@
 - 👋 Salve, sou o @camaramatheus e moro no RJ.
-- 👀 Interessado em conhecer pessoas novas, codar, fps, gym, entre outros.
-- 🌱 Estou atualmente aprendendo HTLM, CSS, JS.
-- 📫 Pode entrar em contato comigo através de matheusxcamara@gmail.com
+- 🌱 Estou atualmente aprendendo JS, REACT, NODE.JS.
+- 📫 Pode entrar em contato comigo através de matheusdevx@proton.me
 
 <!---
 camaramatheus/camaramatheus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
